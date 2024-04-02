@@ -1,0 +1,26 @@
+BUSINESS INSIGHTS
+
+1. Almost 73 % of customer base lies in age bracket of 18-45 ( 26-35 : 34.8, 36-45 : 19.8,  18-25 : 18.1).
+2. Almost 72% of users are male while only 28% are female.
+3. 58% of users are unmarried while 42% are married.
+4. Maximum number of users(53%) belong to city category C ,followed by category B(29%). City category A has only 18% of users.
+5. 35.4% of users have been living since 1 year, followed by 19.4% of users who have been living since 2 years.
+6. Males spend higher amount of money per transaction that females.
+7.  Most of the user belong to occupation 4,0 and 7. Occupation 8 has least amount of users.
+8.  There is not much difference between median purchase values per transaction of married and unmarried customers.
+9.Although City C has highest median value of purchases per transaction, City B has highest frequency of orders.
+10. Occupation 17 has highest median purchase value followed by Occupation 15. Occupation 19 has lowest median purchase value.
+11. Product with category code 5 has been purchased maximum number of times,followed by code 1 and 8.
+12. For Occupation code 8 and 18 female median expenses are higher than their male counterparts. In all other Occupations male expenses are higher than the female ones. 
+13.   For sample size of 5000 and 500, we can clearly say at 95% and 99% confidence level that male expenses are higher than female expenses.
+14. With a sample size of 5000 and confidence level of 99% and 95%, we can't state that  expenses of unmarried customers is greater that married ones as the confidence intervals are overlapping. At 90% CI, we can clearly say that unmarried customer expenses are higher that that of married ones.
+15. At CI of 95%, we can say that customers with age range 26-35 years have highest amount spending and customers in age '55+'category has lowest spending.
+
+RECOMMENDATIONS
+
+1. Since male customers spend higher amount that female and their percentage is more than female, company should focus more on retaining male customers.
+2. Since 53% of customers are from City C and City C has highest mean amount of purchases, company management should open more stores in City C.
+3. Company should concentrate on increasing customer base belonging to Occupation 4,0 and 7.
+4. Company need to give lucrative offers or discount to female customers to attract higher female spending.
+5. Since age group ' 0-17' has very low customer count, company need to keep products like toys,video games, candies and soft drinks for children and adoloscent .
+6.Company need to sell more Products belonging to product category 5,1 and 8.
